@@ -1,5 +1,5 @@
 console.log("Hello World");
-console.log("Please enter your name");
+console.log("Please enter your name right now!");
 
 function processData(input) {
     //Enter your code here
